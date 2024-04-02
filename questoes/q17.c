@@ -44,5 +44,5 @@ int main(void) {
     
 
     sortCrescente(x, n, *compare);
-
+    free(x);
 }
