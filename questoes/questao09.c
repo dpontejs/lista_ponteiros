@@ -16,3 +16,7 @@ int main() {
 
     return 0;
 }
+
+/*
+As saídas serão 3 e "jose", pois sao os elementos x e nome do struct teste criado
+*/

@@ -14,3 +14,9 @@ int main() {
 
     return 0;
 }
+
+/* 
+Todas, pois mat + 1 quer dizer que p vai referenciar a 
+segunda posicão do vetor mat, e p = mat ele irá referenciar a primeira
+e x = (*mat) irá retornar um inteiro que é aceito em x
+*/

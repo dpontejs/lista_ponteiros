@@ -19,3 +19,7 @@ int main() {
 
     return 0;
 }
+
+/* 
+É mostrado que os operadores vet[] e *(f), e &vet[] e (f) são eqivalentes
+*/

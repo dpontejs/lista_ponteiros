@@ -14,3 +14,7 @@ int main() {
     
     return 0;
 }
+
+/* 
+Imprimem os valores presentes no vetor e suas posicões de memória
+*/
